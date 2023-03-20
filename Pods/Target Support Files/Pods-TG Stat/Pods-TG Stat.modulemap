@@ -1,0 +1,6 @@
+framework module Pods_TG_Stat {
+  umbrella header "Pods-TG Stat-umbrella.h"
+
+  export *
+  module * { export * }
+}
